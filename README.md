@@ -1,2 +1,22 @@
-# sysadmin-scripts-toolkit
-Pequena coleção de scripts Bash/Python para tarefas do dia a dia de um sysadmin. Scripts práticos, comentados e fáceis de adaptar. Ideal para qualquer profissional que precise de resolver problemas rápido sem reinventar a roda.
+# SysAdmin Scripts Toolkit
+
+Pequena coleção de scripts práticos para tarefas diárias de administração de sistemas Linux. 
+Rápido, leve e funcional.
+
+## Scripts incluídos
+- disk_monitor.sh
+- process_killer.sh
+- log_cleaner.sh
+- backup_simple.sh
+- network_check.sh
+
+## Como usar
+1. Clone o repositório
+   ```bash
+   git clone https://github.com/SEU_USERNAME/sysadmin-scripts-toolkit.git
+   cd sysadmin-scripts-toolkit
+2. Torne scripts executáveis
+   ```bash
+    chmod +x *.sh
+3. Execute o script desejado
+   
